@@ -64,7 +64,7 @@ Monster.prototype.move = function( bounds )
 {
 	this.x += this.vx;
 	this.y += this.vy;
-
+	console.log('ici');
 	if ( this.x < 0 )
 	{
 		this.x = 0;

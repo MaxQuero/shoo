@@ -12,6 +12,9 @@
         },
         "cordova-plugin-camera": {
             "PACKAGE_NAME": "fr.epsi.shoo"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "fr.epsi.shoo"
         }
     },
     "dependent_plugins": {}
